@@ -3,7 +3,6 @@
 #include <linux/kernel.h>
 #include <linux/list.h>
 #include <linux/types.h>
-#include <linux/string.h>
 #include<linux/slab.h>
 static LIST_HEAD(birthday_list); //this macro defines and initializes the variable birthday_list
 
